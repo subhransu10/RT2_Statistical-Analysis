@@ -4,4 +4,4 @@
 ## AIM 
 The task of this part of the assignment is to do a statistical analysis by a comparision of the two controllers of the robot. To get a brief overview of the first assignment, please click here [RT1_Assignment1](https://github.com/subhransu10/RT1_Assignment1)
 ## PROJECT REPORT
-Please find the project report ![here](RT_2_Data_Analysis_Subhransu (1))
+Please find the project report [here](RT_2_Data_Analysis_Subhransu (1))
